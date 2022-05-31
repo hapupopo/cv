@@ -1,0 +1,166 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+h1 {
+  font-family: 'Freehand', cursive;
+  margin: 50px auto 0 auto;
+  font-size: 5.6rem;
+  color: #112D4E;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #112D4E;
+  margin-bottom: 0;
+}
+
+h3, a {
+  font-size: 1.2rem;
+  margin-top: 20;
+  margin-bottom: 20;
+  color: #3F72AF;
+}
+
+hr {
+  border-style: dotted;
+  border-width: 20px;
+  border-color: #EAF6F6;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  width: 20%;
+  margin: 100px auto;
+}
+.top_cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+.bottom_cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.subtitle {
+  width: 30%;
+  font-weight: normal;
+}
+
+.profile_div {
+  margin: 100px auto 100px auto;
+  width: 50%;
+}
+
+.profile {
+  border-radius: 100%;
+  width: 200px;
+}
+
+.profile_description {
+  width: 80%;
+  margin: 30px auto;
+}
+
+.top_container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 1em;
+}
+
+.skills {
+  margin: 100px auto 100px auto;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  position: relative;
+  width: 60%;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.skill_img {
+  width: 40%;
+  float: left;
+  margin-right: 50px;
+  margin-bottom: 100px;
+}
+
+.skill_img_chilly {
+  width: 30%;
+  float: right;
+  margin-left: 50px;
+  margin-bottom: 80px;
+
+
+}
+
+.contact-me {
+  margin: 100px auto 100px auto;
+  width: 60%;
+}
+
+
+.bottom-container {
+  background-color: #112D4E;
+  padding: 100px;
+}
+
+.footer-link {
+  color: #DBE2EF;
+  margin-bottom: 50px;
+}
+
+.copyright {
+  margin-top: 30px;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+.BUTTON_FJJ {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 3px;
+   line-height: 3px;
+   color: #FFFFFF;
+   font-family: Verdana;
+   width: 250px;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 25px;
+   background-color: #3F72AF;
+   -webkit-box-shadow: 1px 1px 5px 0 #000000;
+   -moz-box-shadow: 1px 1px 5px 0 #000000;
+   box-shadow: 1px 1px 5px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_FJJ:hover {
+   background: #1E62D0;
+   border: solid #337FED 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
